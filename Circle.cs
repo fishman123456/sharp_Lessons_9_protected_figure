@@ -10,6 +10,11 @@ namespace sharp_Lessons_9_protected_figure
     {
         public int x;
         public int y;
+        public int radius;
+    }
+    void square()
+    {
+      
 
     }
 }
