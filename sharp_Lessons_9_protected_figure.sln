@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharp_Lessons_9_protected_figure", "sharp_Lessons_9_protected_figure.csproj", "{8990DC5F-DFB9-491D-A784-EB4D4BCA739F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8990DC5F-DFB9-491D-A784-EB4D4BCA739F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8990DC5F-DFB9-491D-A784-EB4D4BCA739F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8990DC5F-DFB9-491D-A784-EB4D4BCA739F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8990DC5F-DFB9-491D-A784-EB4D4BCA739F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20DE8671-E487-4FCD-B503-9D5CAB88E613}
+	EndGlobalSection
+EndGlobal
