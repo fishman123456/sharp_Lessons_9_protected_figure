@@ -16,7 +16,7 @@ namespace sharp_Lessons_9_protected_figure
         {
             _area = 10;
             _perimeter = 10;
-            _figure = "квадрат";
+            _figure = "??";
         }
         public Employe (double area, double perimetr, string figure)
         {
