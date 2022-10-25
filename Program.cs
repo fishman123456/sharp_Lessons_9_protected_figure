@@ -9,6 +9,6 @@ using sharp_Lessons_9_protected_figure;
 
 Circle one = new Circle();
 one.Print();
-Circle two = new Circle(10,20,2);
+Circle two = new Circle(10,20,10);
 two.area();
 two.Print();

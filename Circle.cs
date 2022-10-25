@@ -27,7 +27,7 @@ namespace sharp_Lessons_9_protected_figure
         }
         public double area()
         {
-            _area = 3.14 * radius;
+            _area = 3.14 * (radius*radius);
             return _area;
         }
     }
