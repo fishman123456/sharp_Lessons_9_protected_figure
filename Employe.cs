@@ -27,7 +27,7 @@ namespace sharp_Lessons_9_protected_figure
        public void Print ()
         {
             Console.WriteLine ("\tполощадь\t" + _area + "\tпериметр\t" +
-                _perimeter + "\tимя фигуры\t" + _figure + "\n");
+                _perimeter + "\tимя фигуры\t" + _figure + "\n" );
         }
            
     }
